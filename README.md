@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FemboyTech
 - 👀 I’m interested in facial recognition api
-- 🌱 I’m currently learning C#, Java, Html, Css, and more
+- 🌱 I’m currently learning C#, Java, Html, Css, and unity
 - 💞️ I’m looking to collaborate. Not on anything yet
 - 📬 you can reach me on discord @ReanTokley#0616
 
